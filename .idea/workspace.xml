@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13019bc7-1fcf-4cb5-820e-544f64d583fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="13019bc7-1fcf-4cb5-820e-544f64d583fc" name="Default Changelist" comment="commit 19.09 20:51">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +77,24 @@
       <option name="presentableId" value="Default" />
       <updated>1631821887344</updated>
       <workItem from="1631821895943" duration="5447000" />
-      <workItem from="1631863291195" duration="70905000" />
+      <workItem from="1631863291195" duration="71183000" />
     </task>
+    <task id="LOCAL-00001" summary="commit 19.09 20:51">
+      <created>1632073945692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632073945692</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 19.09 20:51" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 19.09 20:51" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Inspections" timestamp="1631881381194">
@@ -93,10 +105,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2610" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1631893087387" />
-    <state x="2505" y="114" key="CommitChangelistDialog2" timestamp="1632073540281">
+    <state x="2505" y="114" key="CommitChangelistDialog2" timestamp="1632074016330">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2505" y="114" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1632073540281" />
+    <state x="2505" y="114" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1632074016330" />
     <state x="2660" y="261" key="FileChooserDialogImpl" timestamp="1632073412901">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
