@@ -33,7 +33,7 @@ public class Main {
     }
 
     public static boolean containLetters(String s){
-        return Pattern.compile("[^0-9+/*-]").matcher(s).find();
+        return Pattern.compile("[^0-9+/*-]+\\s").matcher(s).find();
     }
 
     public static String[] removeSpaces(String s){
